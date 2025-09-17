@@ -1,2 +1,2 @@
-# Your Project Name
-A short description of what your package does.
+# Test Project
+First test project for the business decision modeling
